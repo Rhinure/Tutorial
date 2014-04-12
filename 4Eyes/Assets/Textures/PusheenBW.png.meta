@@ -1,0 +1,247 @@
+fileFormatVersion: 2
+guid: 57bfedb02a99cfd40afedb90cb4a91c2
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: PusheenIdle
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1931
+        width: 657
+        height: 1106
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PusheenTail
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 2086
+        width: 217
+        height: 474
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: RightWing
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1091
+        width: 269
+        height: 164
+      alignment: 4
+      pivot: {x: 0, y: .5}
+    - name: FlatWing
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1265
+        width: 199
+        height: 205
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LeftWing
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1063
+        width: 290
+        height: 180
+      alignment: 5
+      pivot: {x: 1, y: .5}
+    - name: PusheenSit
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 772
+        width: 1097
+        height: 761
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Eye1
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 2771
+        width: 53
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Eye2
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 2762
+        width: 41
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Eye3
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 2977
+        width: 59
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Eye4
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 2989
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PusheenMouth
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 2784
+        width: 180
+        height: 151
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PusheenWhisker
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 3042
+        width: 164
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Paw4
+      rect:
+        serializedVersion: 2
+        x: 2125
+        y: 1780
+        width: 123
+        height: 104
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Paw3
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 1770
+        width: 114
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Paw2
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 1767
+        width: 101
+        height: 114
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Paw1
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 1770
+        width: 104
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: RunPaw4
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 1739
+        width: 116
+        height: 139
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: RunPaw1
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1669
+        width: 107
+        height: 133
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: RunPaw2
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1657
+        width: 136
+        height: 141
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: RunPaw3
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 1707
+        width: 120
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PusheenTail
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 2074
+        width: 294
+        height: 135
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PusheenTailUp
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 2048
+        width: 294
+        height: 174
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 

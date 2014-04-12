@@ -47,7 +47,6 @@ public class Cat : MonoBehaviour
 	
 	void FixedUpdate ()
 	{
-		
 		if (isClimbing) {
 			float h = Input.GetAxis ("Horizontal"); // To flip both ways while climbing the ladder. Will determine attack direction while climbing.
 			
@@ -115,18 +114,5 @@ public class Cat : MonoBehaviour
 		transform.localScale = theScale;
 	}
 	
-	void OnTriggerEnter2D(Collider2D otherCollider)
-	{
-		
-	}
-	
-	void OnTriggerExit2D(Collider2D otherCollider)
-	{
-		
-	}
-	
-	void OnTriggerStay2D(Collider2D otherCollider)
-	{
-		
-	}
+
 }
